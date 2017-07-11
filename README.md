@@ -1,0 +1,2 @@
+# caffe_feature_map
+这个工程是根据caffe的工程进行改建的，解决的问题是通过网络提取feature和初始的lmdb放到同一个lmdb中，然后使用lmdb训练网络
